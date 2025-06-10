@@ -132,17 +132,18 @@ ignore giving * or any another symbol and always keep your answers short unless 
 
           <div className="flex flex-col items-center  bg-yellow-100 w-full rounded-xl p-4 border border-orange-400 shadow-inner">
             <motion.button
-    onClick={handleListen}
-    whileHover={{ scale: 1.2, rotate: [0, 10, -10, 0] }}
-    whileTap={{ scale: 0.9 }}
-    className="fixed bottom-52 right-52 bg-orange-500 p-4 rounded-full shadow-xl border-4 border-yellow-200 z-50"
-  >
-    <img
-      src="/mic.png"
-      alt="Floating Mic"
-      className="w-8 h-8 invert"
-    />
-  </motion.button>
+  onClick={handleListen}
+  whileHover={{ scale: 1.2, rotate: [0, 10, -10, 0] }}
+  whileTap={{ scale: 0.95 }}
+  className="fixed bottom-6 right-6 sm:bottom-8 sm:right-8 md:bottom-10 md:right-10 bg-orange-500 p-4 rounded-full shadow-xl border-4 border-yellow-200 z-50"
+>
+  <img
+    src="/mic.png"
+    alt="Mic"
+    className="w-6 h-6 sm:w-8 sm:h-8 invert animate-pulse"
+  />
+</motion.button>
+
             <p className="text-center text-base text-gray-700 font-semibold">
               {message}
             </p>
@@ -163,15 +164,16 @@ ignore giving * or any another symbol and always keep your answers short unless 
             transition={{ duration: 0.3 }}
             className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
           >
-            <div className="flex items-end gap-2 max-w-[90%]">
+            <div className="flex items-end gap-2 max-w-[75%]">
               {msg.role === 'Naruto' && (
-                <div className='w-20 h-20 overflow-hidden flex items-center justify-center rounded-full border-2 border-orange-400'>
-                  <img
-                  src="/naruto.png"
-                  alt="Naruto Avatar"
-                  className=" scale-200"
-                />
-                </div>
+                <div className="w-14 h-14 sm:w-16 sm:h-16 md:w-20 md:h-20 rounded-full overflow-hidden border-2 border-orange-400 shadow-md flex items-center justify-center bg-white">
+  <img
+    src="/naruto.png"
+    alt="Naruto Avatar"
+    className="w-full h-full object-cover"
+  />
+</div>
+
                 
               )}
               <div
