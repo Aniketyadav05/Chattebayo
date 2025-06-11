@@ -86,9 +86,11 @@ Made with ❤️ by [**Aniket Yadav**](https://github.com/Aniketyadav05)
 
 ## ⭐ Support
 
+
 If you like this project, don't forget to ⭐ the repo!
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGptOGptdmJiaHFjMGI3bnB4Zzd1cWI0OHY1ZzVvazV5OHNoYjJvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kTlnPfLGUax5y/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHIzZmpkNjhyc2F0azdlNmhocGJ1c3czOHlqaXJvanJ6ZzdzczN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFSqMSMnzPRTAdvKyr/giphy.gif)" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHIzZmpkNjhyc2F0azdlNmhocGJ1c3czOHlqaXJvanJ6ZzdzczN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFSqMSMnzPRTAdvKyr/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk1am56d3ZwenJjZHV5ZzF1MWgxbnhwbHJ4MXdjejB1eHJlem12aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JR4NrMcg5uTjYSO9J5/giphy.gif" width="300"/>
 </p>
-```
+
